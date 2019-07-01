@@ -6,5 +6,6 @@ package com.shopping.test;
 public class Test2 {
     public static void main(String[] args) {
         System.out.println("==================测试成功！============");
+        System.out.println("==================测试成功2！============");
     }
 }
