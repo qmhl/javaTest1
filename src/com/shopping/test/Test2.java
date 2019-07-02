@@ -18,14 +18,10 @@ public class Test2 {
         System.out.println("==================master上新增！============");
         System.out.println("==================master222上新增！============");
         System.out.println("==================pro上新增！============");
-
         System.out.println("==================pro上新增test1！============");
+        System.out.println("==================pro上新增test22222！============");
 
         System.out.println("==================这是dev环境！============");
-
-
-
-
 
 
     }
