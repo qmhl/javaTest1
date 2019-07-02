@@ -28,6 +28,9 @@ public class Test2 {
         System.out.println("==================AAAAAAA！============");
         System.out.println("==================这是dev环境！============");
 
+        System.out.println("==================BBB！============");
+        System.out.println("==================BCCC！============");
+
 
 
     }
